@@ -5,8 +5,9 @@
 This repository contains the code and methodology for analyzing the "Global Weather Repository.csv" dataset and forecasting future weather trends. The project demonstrates a complete Data Science lifecycle, covering data cleaning, exploratory data analysis (EDA), and time series forecasting using Linear Regression.
 
 ### 🔗 Important Links
-* **Google Colab Notebook:** [[Google Colab]](https://colab.research.google.com/drive/1KAsKtup5fGbGUnv-W3Bse1NOEDyRFF27?usp=sharing)
-* **Demo Video:** [Insert the link to your 1-2 min demo video here]
+* **Google Colab Notebook:** [Google Colab](https://colab.research.google.com/drive/1KAsKtup5fGbGUnv-W3Bse1NOEDyRFF27?usp=sharing)
+* **Demo Video:** [Google Drive](https://drive.google.com/file/d/1k4qSg6QFJ9q4y-yiVDg6Bj2AWZVOYE83/view?usp=sharing)
+* **Report:** [Google Docs](https://docs.google.com/document/d/1-GFgGvjZZ6vGhCuRzTidr6lPp0tR-Lnj10azr3r4zcs/edit?usp=sharing)
 
 ---
 
